@@ -1,0 +1,720 @@
+{
+    "movie": [{
+            "Title": "Jaws",
+            "Year": "1975",
+            "Rated": "PG",
+            "Released": "20 Jun 1975",
+            "Runtime": "124 min",
+            "Genre": "Adventure, Drama, Thriller",
+            "Director": "Steven Spielberg",
+            "Writer": "Peter Benchley (screenplay), Carl Gottlieb (screenplay), Peter Benchley (based on the novel by)",
+            "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",
+            "Plot": "A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wreaking havoc in a beach resort.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Won 3 Oscars. Another 11 wins & 18 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "97%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "87/100"
+            }],
+            "Metascore": "87",
+            "imdbRating": "8.0",
+            "imdbVotes": "489,473",
+            "imdbID": "tt0073195",
+            "Type": "movie",
+            "DVD": "11 Jul 2000",
+            "BoxOffice": "N/A",
+            "Production": "Universal Pictures",
+            "Website": "http://www.jaws25.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "Ocean's Eleven",
+            "Year": "2001",
+            "Rated": "PG-13",
+            "Released": "07 Dec 2001",
+            "Runtime": "116 min",
+            "Genre": "Crime, Thriller",
+            "Director": "Steven Soderbergh",
+            "Writer": "George Clayton Johnson, Jack Golden Russell, Harry Brown, Charles Lederer, Ted Griffin (screenplay)",
+            "Actors": "George Clooney, Cecelia Ann Birt, Paul L. Nolan, Carol Florence",
+            "Plot": "Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.",
+            "Language": "English, Italian, Cantonese",
+            "Country": "USA",
+            "Awards": "4 wins & 20 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzVmYzVkMmUtOGRhMi00MTNmLThlMmUtZTljYjlkMjNkMjJkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "82%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "74/100"
+            }],
+            "Metascore": "74",
+            "imdbRating": "7.8",
+            "imdbVotes": "459,885",
+            "imdbID": "tt0240772",
+            "Type": "movie",
+            "DVD": "07 May 2002",
+            "BoxOffice": "$183,349,128",
+            "Production": "Warner Bros. Pictures",
+            "Website": "http://oceans11.warnerbros.com",
+            "Response": "True"
+        },
+        {
+            "Title": "Avengers: Infinity War",
+            "Year": "2018",
+            "Rated": "PG-13",
+            "Released": "27 Apr 2018",
+            "Runtime": "149 min",
+            "Genre": "Action, Adventure, Drama",
+            "Director": "Anthony Russo, Joe Russo",
+            "Writer": "Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos, Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
+            "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
+            "Plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "84%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "68/100"
+            }],
+            "Metascore": "68",
+            "imdbRating": "8.6",
+            "imdbVotes": "482,760",
+            "imdbID": "tt4154756",
+            "Type": "movie",
+            "DVD": "14 Aug 2018",
+            "BoxOffice": "$664,987,816",
+            "Production": "Walt Disney Pictures",
+            "Website": "http://marvel.com/movies/movie/223/avengers_infinity_war",
+            "Response": "True"
+        },
+        {
+            "Title": "Iron Man",
+            "Year": "2008",
+            "Rated": "PG-13",
+            "Released": "02 May 2008",
+            "Runtime": "126 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Jon Favreau",
+            "Writer": "Mark Fergus (screenplay), Hawk Ostby (screenplay), Art Marcum (screenplay), Matt Holloway (screenplay), Stan Lee (characters), Don Heck (characters), Larry Lieber (characters), Jack Kirby (characters)",
+            "Actors": "Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow",
+            "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+            "Language": "English, Persian, Urdu, Arabic, Hungarian",
+            "Country": "USA",
+            "Awards": "Nominated for 2 Oscars. Another 20 wins & 65 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "79/100"
+            }],
+            "Metascore": "79",
+            "imdbRating": "7.9",
+            "imdbVotes": "812,955",
+            "imdbID": "tt0371746",
+            "Type": "movie",
+            "DVD": "30 Sep 2008",
+            "BoxOffice": "$318,298,180",
+            "Production": "Paramount Pictures",
+            "Website": "http://www.ironmanmovie.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "I, Robot",
+            "Year": "2004",
+            "Rated": "PG-13",
+            "Released": "16 Jul 2004",
+            "Runtime": "115 min",
+            "Genre": "Action, Crime, Drama",
+            "Director": "Alex Proyas",
+            "Writer": "Jeff Vintar (screenplay), Akiva Goldsman (screenplay), Jeff Vintar (screen story), Isaac Asimov (suggested by book)",
+            "Actors": "Will Smith, Bridget Moynahan, Alan Tudyk, James Cromwell",
+            "Plot": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.",
+            "Language": "English",
+            "Country": "USA, Germany",
+            "Awards": "Nominated for 1 Oscar. Another 1 win & 13 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1OWI2ZGItMDUyOS00MmU5LWE0MzUtYTQ0YzA1YTE5MGYxXkEyXkFqcGdeQXVyMDM5ODIyNw@@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            }, {
+                "Source": "Metacritic",
+                "Value": "59/100"
+            }],
+            "Metascore": "59",
+            "imdbRating": "7.1",
+            "imdbVotes": "447,187",
+            "imdbID": "tt0343818",
+            "Type": "movie",
+            "DVD": "01 Dec 1998",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "The Matrix",
+            "Year": "1999",
+            "Rated": "R",
+            "Released": "31 Mar 1999",
+            "Runtime": "136 min",
+            "Genre": "Action, Sci-Fi",
+            "Director": "Lana Wachowski, Lilly Wachowski",
+            "Writer": "Lilly Wachowski, Lana Wachowski",
+            "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+            "Plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Won 4 Oscars. Another 34 wins & 48 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }],
+            "Metascore": "73",
+            "imdbRating": "8.7",
+            "imdbVotes": "1,435,731",
+            "imdbID": "tt0133093",
+            "Type": "movie",
+            "DVD": "21 Sep 1999",
+            "BoxOffice": "N/A",
+            "Production": "Warner Bros. Pictures",
+            "Website": "http://www.whatisthematrix.com",
+            "Response": "True"
+        },
+        {
+            "Title": "The Good, the Bad and the Ugly",
+            "Year": "1966",
+            "Rated": "R",
+            "Released": "29 Dec 1967",
+            "Runtime": "178 min",
+            "Genre": "Western",
+            "Director": "Sergio Leone",
+            "Writer": "Luciano Vincenzoni (story), Sergio Leone (story), Agenore Incrocci (screenplay), Furio Scarpelli (screenplay), Luciano Vincenzoni (screenplay), Sergio Leone (screenplay)",
+            "Actors": "Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè",
+            "Plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+            "Language": "Italian",
+            "Country": "Italy, Spain, West Germany",
+            "Awards": "1 win & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "97%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "90/100"
+            }],
+            "Metascore": "90",
+            "imdbRating": "8.9",
+            "imdbVotes": "593,205",
+            "imdbID": "tt0060196",
+            "Type": "movie",
+            "DVD": "18 Nov 1997",
+            "BoxOffice": "N/A",
+            "Production": "United Artists",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Ex Machina",
+            "Year": "2014",
+            "Rated": "R",
+            "Released": "24 Apr 2015",
+            "Runtime": "108 min",
+            "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+            "Director": "Alex Garland",
+            "Writer": "Alex Garland",
+            "Actors": "Domhnall Gleeson, Alicia Vikander, Oscar Isaac, Sonoya Mizuno",
+            "Plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.",
+            "Language": "English",
+            "Country": "UK",
+            "Awards": "Won 1 Oscar. Another 70 wins & 153 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "78/100"
+            }],
+            "Metascore": "78",
+            "imdbRating": "7.7",
+            "imdbVotes": "399,548",
+            "imdbID": "tt0470752",
+            "Type": "movie",
+            "DVD": "14 Jul 2015",
+            "BoxOffice": "$19,012,798",
+            "Production": "A24 Films",
+            "Website": "http://meet-ava.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "Harry Potter and the Goblet of Fire",
+            "Year": "2005",
+            "Rated": "PG-13",
+            "Released": "18 Nov 2005",
+            "Runtime": "157 min",
+            "Genre": "Adventure, Family, Fantasy",
+            "Director": "Mike Newell",
+            "Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+            "Actors": "Eric Sykes, Timothy Spall, David Tennant, Daniel Radcliffe",
+            "Plot": "A young wizard finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+            "Language": "English, French",
+            "Country": "UK, USA",
+            "Awards": "Nominated for 1 Oscar. Another 13 wins & 42 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "88%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "81/100"
+            }],
+            "Metascore": "81",
+            "imdbRating": "7.7",
+            "imdbVotes": "461,268",
+            "imdbID": "tt0330373",
+            "Type": "movie",
+            "DVD": "07 Mar 2006",
+            "BoxOffice": "$289,994,397",
+            "Production": "Warner Bros. Pictures",
+            "Website": "http://harrypotter.warnerbros.com/gobletoffire/",
+            "Response": "True"
+        },
+        {
+            "Title": "The Godfather",
+            "Year": "1972",
+            "Rated": "R",
+            "Released": "24 Mar 1972",
+            "Runtime": "175 min",
+            "Genre": "Crime, Drama",
+            "Director": "Francis Ford Coppola",
+            "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+            "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+            "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "Language": "English, Italian, Latin",
+            "Country": "USA",
+            "Awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "9.2/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "100/100"
+            }],
+            "Metascore": "100",
+            "imdbRating": "9.2",
+            "imdbVotes": "1,370,696",
+            "imdbID": "tt0068646",
+            "Type": "movie",
+            "DVD": "09 Oct 2001",
+            "BoxOffice": "N/A",
+            "Production": "Paramount Pictures",
+            "Website": "http://www.thegodfather.com",
+            "Response": "True"
+        },
+        {
+            "Title": "The Lord of the Rings: The Fellowship of the Ring",
+            "Year": "2001",
+            "Rated": "PG-13",
+            "Released": "19 Dec 2001",
+            "Runtime": "178 min",
+            "Genre": "Adventure, Drama, Fantasy",
+            "Director": "Peter Jackson",
+            "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
+            "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker",
+            "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+            "Language": "English, Sindarin",
+            "Country": "New Zealand, USA",
+            "Awards": "Won 4 Oscars. Another 113 wins & 123 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "92/100"
+            }],
+            "Metascore": "92",
+            "imdbRating": "8.8",
+            "imdbVotes": "1,441,532",
+            "imdbID": "tt0120737",
+            "Type": "movie",
+            "DVD": "06 Aug 2002",
+            "BoxOffice": "$314,000,000",
+            "Production": "New Line Cinema",
+            "Website": "http://www.lordoftherings.net/film/trilogy/thefellowship.html",
+            "Response": "True"
+        },
+        {
+            "Title": "Pulp Fiction",
+            "Year": "1994",
+            "Rated": "R",
+            "Released": "14 Oct 1994",
+            "Runtime": "154 min",
+            "Genre": "Crime, Drama",
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+            "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+            "Plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "Language": "English, Spanish, French",
+            "Country": "USA",
+            "Awards": "Won 1 Oscar. Another 62 wins & 69 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }],
+            "Metascore": "94",
+            "imdbRating": "8.9",
+            "imdbVotes": "1,558,567",
+            "imdbID": "tt0110912",
+            "Type": "movie",
+            "DVD": "19 May 1998",
+            "BoxOffice": "N/A",
+            "Production": "Miramax Films",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Ready Player One",
+            "Year": "2018",
+            "Rated": "PG-13",
+            "Released": "29 Mar 2018",
+            "Runtime": "140 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Steven Spielberg",
+            "Writer": "Zak Penn (screenplay by), Ernest Cline (screenplay by), Ernest Cline (based on the novel by)",
+            "Actors": "Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe",
+            "Plot": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }],
+            "Metascore": "64",
+            "imdbRating": "7.6",
+            "imdbVotes": "226,448",
+            "imdbID": "tt1677720",
+            "Type": "movie",
+            "DVD": "03 Jul 2018",
+            "BoxOffice": "N/A",
+            "Production": "Warner Bros. Pictures",
+            "Website": "http://readyplayeronemovie.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "Fight Club",
+            "Year": "1999",
+            "Rated": "R",
+            "Released": "15 Oct 1999",
+            "Runtime": "139 min",
+            "Genre": "Drama",
+            "Director": "David Fincher",
+            "Writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+            "Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
+            "Plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+            "Language": "English",
+            "Country": "USA, Germany",
+            "Awards": "Nominated for 1 Oscar. Another 10 wins & 34 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }],
+            "Metascore": "66",
+            "imdbRating": "8.8",
+            "imdbVotes": "1,597,318",
+            "imdbID": "tt0137523",
+            "Type": "movie",
+            "DVD": "06 Jun 2000",
+            "BoxOffice": "N/A",
+            "Production": "20th Century Fox",
+            "Website": "http://www.foxmovies.com/fightclub/",
+            "Response": "True"
+        },
+        {
+            "Title": "Star Wars: Episode IV - A New Hope",
+            "Year": "1977",
+            "Rated": "PG",
+            "Released": "25 May 1977",
+            "Runtime": "121 min",
+            "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+            "Director": "George Lucas",
+            "Writer": "George Lucas",
+            "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+            "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Won 6 Oscars. Another 50 wins & 28 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "90/100"
+            }],
+            "Metascore": "90",
+            "imdbRating": "8.6",
+            "imdbVotes": "1,077,767",
+            "imdbID": "tt0076759",
+            "Type": "movie",
+            "DVD": "21 Sep 2004",
+            "BoxOffice": "N/A",
+            "Production": "20th Century Fox",
+            "Website": "http://www.starwars.com/episode-iv/",
+            "Response": "True"
+        },
+        {
+            "Title": "Batman Begins",
+            "Year": "2005",
+            "Rated": "PG-13",
+            "Released": "15 Jun 2005",
+            "Runtime": "140 min",
+            "Genre": "Action, Adventure",
+            "Director": "Christopher Nolan",
+            "Writer": "Bob Kane (characters), David S. Goyer (story), Christopher Nolan (screenplay), David S. Goyer (screenplay)",
+            "Actors": "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes",
+            "Plot": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+            "Language": "English, Urdu, Mandarin",
+            "Country": "USA, UK",
+            "Awards": "Nominated for 1 Oscar. Another 14 wins & 72 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZmUwNGU2ZmItMmRiNC00MjhlLTg5YWUtODMyNzkxODYzMmZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "84%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "70/100"
+            }],
+            "Metascore": "70",
+            "imdbRating": "8.2",
+            "imdbVotes": "1,200,605",
+            "imdbID": "tt0372784",
+            "Type": "movie",
+            "DVD": "18 Oct 2005",
+            "BoxOffice": "$204,100,000",
+            "Production": "Warner Bros. Pictures",
+            "Website": "https://www.warnerbros.com/batman-begins",
+            "Response": "True"
+        },
+        {
+            "Title": "Django Unchained",
+            "Year": "2012",
+            "Rated": "R",
+            "Released": "25 Dec 2012",
+            "Runtime": "165 min",
+            "Genre": "Drama, Western",
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino",
+            "Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+            "Plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "Language": "English, German, French, Italian",
+            "Country": "USA",
+            "Awards": "Won 2 Oscars. Another 56 wins & 151 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.4/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "86%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "81/100"
+            }],
+            "Metascore": "81",
+            "imdbRating": "8.4",
+            "imdbVotes": "1,219,149",
+            "imdbID": "tt1853728",
+            "Type": "movie",
+            "DVD": "16 Apr 2013",
+            "BoxOffice": "$162,804,648",
+            "Production": "The Weinstein Co.",
+            "Website": "http://unchainedmovie.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "Back to the Future",
+            "Year": "1985",
+            "Rated": "PG",
+            "Released": "03 Jul 1985",
+            "Runtime": "116 min",
+            "Genre": "Adventure, Comedy, Sci-Fi",
+            "Director": "Robert Zemeckis",
+            "Writer": "Robert Zemeckis, Bob Gale",
+            "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+            "Plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "87/100"
+            }],
+            "Metascore": "87",
+            "imdbRating": "8.5",
+            "imdbVotes": "945,365",
+            "imdbID": "tt0088763",
+            "Type": "movie",
+            "DVD": "17 Dec 2002",
+            "BoxOffice": "$2,925,880",
+            "Production": "Universal Pictures",
+            "Website": "http://www.bttfmovie.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "The Departed",
+            "Year": "2006",
+            "Rated": "R",
+            "Released": "06 Oct 2006",
+            "Runtime": "151 min",
+            "Genre": "Crime, Drama, Thriller",
+            "Director": "Martin Scorsese",
+            "Writer": "William Monahan (screenplay), Alan Mak, Felix Chong",
+            "Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",
+            "Plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+            "Language": "English, Cantonese",
+            "Country": "USA",
+            "Awards": "Won 4 Oscars. Another 92 wins & 135 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "85/100"
+            }],
+            "Metascore": "85",
+            "imdbRating": "8.5",
+            "imdbVotes": "1,081,603",
+            "imdbID": "tt0407887",
+            "Type": "movie",
+            "DVD": "13 Feb 2007",
+            "BoxOffice": "$132,300,000",
+            "Production": "Warner Bros. Pictures",
+            "Website": "http://www.thedeparted.com/",
+            "Response": "True"
+        },
+        {
+            "Title": "The Sixth Sense",
+            "Year": "1999",
+            "Rated": "PG-13",
+            "Released": "06 Aug 1999",
+            "Runtime": "107 min",
+            "Genre": "Drama, Mystery, Thriller",
+            "Director": "M. Night Shyamalan",
+            "Writer": "M. Night Shyamalan",
+            "Actors": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",
+            "Plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+            "Language": "English, Latin, Spanish",
+            "Country": "USA",
+            "Awards": "Nominated for 6 Oscars. Another 32 wins & 48 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+            "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            }, {
+                "Source": "Rotten Tomatoes",
+                "Value": "86%"
+            }, {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }],
+            "Metascore": "64",
+            "imdbRating": "8.1",
+            "imdbVotes": "849,359",
+            "imdbID": "tt0167404",
+            "Type": "movie",
+            "DVD": "28 Mar 2000",
+            "BoxOffice": "N/A",
+            "Production": "Hollywood/Buena Vista",
+            "Website": "http://movies.go.com/moviesdynamic/movies/movie?id=505420",
+            "Response": "True"
+        }
+    ]
+}

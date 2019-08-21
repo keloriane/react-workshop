@@ -1,18 +1,29 @@
 import React,{useState} from 'react'
 
 const Nav = () => {
-    const [open, isOpen ] = useState()
+    const [open , setOpen ] = useState(false)
+    const [movie , setMovie ] = useState(false)
     const sayHello = () =>{
+        console.log('hello')
     }
-    const handleMenu = () => {
-        
+  
+    const handleOpenMenu = ()=>{
+      setOpen(open => !open)
+      console.log(open)
+    }
+    const handleChangeMovie = ()=>{
+        setMovie()
+    }
+    const handleChange = (e)=>{
+        console.log(e.target.value)
     }
     return (
         <div className="nav-bar">
-            <div className="menu">
+            <input type="text" onChange={handleChange}/>
+            <div className="menu" onClick={handleOpenMenu}>
 
             </div>
-            <nav>
+            <nav className="nav-menu">
                 <ul>
                     <li>Home</li>
                     <li>About</li>
